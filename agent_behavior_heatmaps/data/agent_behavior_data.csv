@@ -1,0 +1,49 @@
+AgentName,InteractionType,QAScore,Date
+John Doe,Email,95,2024-08-20
+Jane Doe,Chat,88,2024-08-21
+John Doe,Phone,90,2024-08-22
+Jane Doe,Email,92,2024-08-23
+Alice Smith,Email,85,2024-08-20
+Bob Johnson,Phone,78,2024-08-21
+Alice Smith,Chat,82,2024-08-22
+Bob Johnson,Email,91,2024-08-23
+John Doe,Social Media,87,2024-08-24
+Jane Doe,Phone,89,2024-08-25
+Alice Smith,Social Media,77,2024-08-26
+Bob Johnson,Chat,93,2024-08-27
+John Doe,Chat,88,2024-08-28
+Jane Doe,Social Media,80,2024-08-29
+Alice Smith,Phone,86,2024-08-30
+Bob Johnson,Social Media,84,2024-08-31
+John Doe,Email,92,2024-09-01
+Jane Doe,Email,91,2024-09-02
+Alice Smith,Email,90,2024-09-03
+Bob Johnson,Phone,76,2024-09-04
+John Doe,Phone,94,2024-09-05
+Jane Doe,Phone,85,2024-09-06
+Alice Smith,Chat,81,2024-09-07
+Bob Johnson,Email,88,2024-09-08
+John Doe,Social Media,79,2024-09-09
+Jane Doe,Chat,87,2024-09-10
+Alice Smith,Phone,89,2024-09-11
+Bob Johnson,Chat,82,2024-09-12
+John Doe,Email,93,2024-09-13
+Jane Doe,Social Media,74,2024-09-14
+Alice Smith,Email,78,2024-09-15
+Bob Johnson,Phone,95,2024-09-16
+John Doe,Phone,60,2024-09-17
+Jane Doe,Chat,70,2024-09-18
+Alice Smith,Social Media,66,2024-09-19
+Bob Johnson,Email,73,2024-09-20
+John Doe,Chat,58,2024-09-21
+Jane Doe,Phone,82,2024-09-22
+Alice Smith,Chat,55,2024-09-23
+Bob Johnson,Social Media,98,2024-09-24
+John Doe,Email,67,2024-09-25
+Jane Doe,Social Media,77,2024-09-26
+Alice Smith,Phone,69,2024-09-27
+Bob Johnson,Email,85,2024-09-28
+John Doe,Social Media,50,2024-09-29
+Jane Doe,Phone,72,2024-09-30
+Alice Smith,Chat,94,2024-10-01
+Bob Johnson,Phone,64,2024-10-02
